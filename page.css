@@ -1,0 +1,122 @@
+.parallelogram {
+    width: 2350px;
+    height: 500px;
+    background-color: #ffffff96;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed
+    
+}
+.parallelogram2 {
+    width: 783px;
+    height: 500px;
+    background-color: #979797af;
+    transform: skew(7deg);
+    margin: 90px;
+    margin-top: 600px;
+    position: fixed
+}
+.parallelogram3 {
+    width: 775px;
+    height: 500px;
+    background-color: #979797af;
+    transform: skew(7deg);
+    margin: 90px;
+    margin-top: 600px;
+    margin-left: 878px;
+    position: fixed
+}
+
+.parallelogram4 {
+    width: 783px;
+    height: 500px;
+    background-color: #979797af;
+    transform: skew(7deg);
+    margin: 90px;
+    margin-top: 600px;
+    margin-left: 1658px;
+    position: fixed
+}
+
+.font{
+    font-family: 'Rajdhani', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.footer1{    
+    width: 2350px;
+    height: 20px;
+    background-color: #ff9925b9;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1110px;
+    margin-left: 200px;
+    
+}
+
+.footer2{    
+    width: 2410px;
+    height: 20px;
+    background-color: #daabc5e7;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1140px;
+    margin-left: 1px;
+}
+
+.footer1a{  
+    width: 28px;
+    height: 20px;
+    background-color: #ff9925b9;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1110px;
+    margin-left: 165px;
+}
+.footer1a1{  
+    width: 20px;
+    height: 20px;
+    background-color: #ff9925b9;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1110px;
+    margin-left: 137px;
+}
+
+.footer1a2{  
+    width: 10px;
+    height: 20px;
+    background-color: #ff9925b9;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1110px;
+    margin-left: 120px;
+}
+
+/* .footer2{    
+    width: 2350px;
+    height: 20px;
+    background-color: #daabc5e7;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1140px;
+    margin-left: -200px;
+} */
+
+.footer1b1{    
+    width: 2350px;
+    height: 20px;
+    background-color: #c4c4c4d7;
+    transform: skew(-7deg);
+    margin: 90px;
+    position: fixed;
+    margin-top: 1169px;
+    margin-left: 600px;
+    
+}
